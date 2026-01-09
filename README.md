@@ -1,12 +1,11 @@
+# Aadhaar_Enrolment_Analysis
+
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/gg-dl/ABS2GSm42Mb-5WKUl9ZiJPZses8uh9_ms76-rET0vyi60IMxz0-m7QfPMG141fvTxjX2wEH0JnQVzBDpPanXV8Exv7Mw2Y5Eo2cv2ylu7jdcDLSamhszKCZ2CLTBD2tOhwKquZYuQa2xF1bHhACAbQChVKE3K7qS7YqPNWHvtG_KtHJglzN6=s1024-rj"
+  <img src="https://img.sanishtech.com/u/9765c85076c8adf9c753817cef80fceb.png"
        alt="Aadhaar Enrollment Analysis Poster"
        width="100%">
 </p>
 
-
-
-# Aadhaar_Enrolment_Analysis
 <h1>Project Overview</h1>
 
 This project focuses on cleaning, standardizing, and analyzing Aadhaar enrollment data to enable accurate geographic insights at the state, district, and pincode levels.
