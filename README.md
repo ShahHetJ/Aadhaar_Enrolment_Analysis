@@ -1,7 +1,7 @@
 # Aadhaar_Enrolment_Analysis
 
 <p align="center">
-  <img src="https://img.sanishtech.com/u/9765c85076c8adf9c753817cef80fceb.png"
+  <img src="https://img.sanishtech.com/u/631e3428be8f80618df0c44bf04106a3.png"
        alt="Aadhaar Enrollment Analysis Poster"
        width="100%">
 </p>
